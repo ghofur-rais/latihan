@@ -1,2 +1,3 @@
 # latihan
-repository pertamaku
+repository pertaaku
+ini editan pertama
